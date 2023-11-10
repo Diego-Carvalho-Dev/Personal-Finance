@@ -1,0 +1,27 @@
+body{
+    background: url('../../../static/perfil/img/bg1.jpg');
+    background-repeat: no-repeat;
+    color: rgb(44, 44, 44) !important;
+    background-size: cover;
+}
+
+:root {
+    --main-color: #ffffff; /* Deep sky blue */
+    --dark-color: #1D4C68; /* Darker shade of sky blue */
+    --contrast-color: #36454F; /* Charcoal */
+    --differential-color: #ff0000; /* Salmon */
+  }
+
+
+  html, body {
+    margin: 0;
+    padding: 0;
+
+}
+
+img{
+    border-radius: 50%;
+}
+
+
+
